@@ -41,6 +41,21 @@ li {
     border: 1px solid #ddd;
 }
 
+button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
 footer {
     background-color: #333;
     color: white;
