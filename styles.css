@@ -56,6 +56,13 @@ button:hover {
     background-color: #45a049;
 }
 
+#myImage {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
 footer {
     background-color: #333;
     color: white;
